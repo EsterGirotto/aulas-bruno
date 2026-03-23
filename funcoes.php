@@ -15,6 +15,6 @@ function raiz ($num1, $num2){
     return $num1 ^ (1/2); 
 }
 
-echo"Valorant";
+echo"Valorant é legal";
 
 ?>
