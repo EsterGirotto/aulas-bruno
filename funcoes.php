@@ -11,4 +11,8 @@ function dividir ($n1, $n2){
     return ($n1 / $n2);
 }
 
+function Raiz($num1)
+{
+    return $num1 ^ (1/2);
+}
 ?>
